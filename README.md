@@ -59,6 +59,7 @@ python-lstm-learning/
 | 2026-04-04 | 02_data_processing — NumPy基础、Pandas基础、数据预处理实战（3课） | ✅ 完成 |
 | 2026-04-05 | 03_visualization — Matplotlib基础、毕设实战图、真实数据综合（3课） | ✅ 完成 |
 | 2026-04-05 | 04_machine_learning — sklearn基础、随机森林、交叉验证调参（3课） | ✅ 完成 |
+| 2026-04-06 | 05_deep_learning — LSTM正弦波入门、滑坡多特征预测、调参与优化（3课） | ✅ 完成 |
 
 ---
 
